@@ -13,6 +13,10 @@ Analytics: Power BI | Tableau | Excel | Statistical Analysis
 Machine Learning: Predictive Modeling | Classification | Regression | Model Evaluation  
 Data Engineering: Data Cleaning | ETL | Data Transformation | Feature Engineering  
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,git,github,vscode" />
+</p>  
+
 ## 🌱 Currently Exploring
 
 LLM Applications | AI Agents | LangChain | RAG Systems | Intelligent Automation 
