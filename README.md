@@ -16,7 +16,7 @@ LLM Applications | AI Agents | LangChain | RAG Systems | Intelligent Automation
 
 ## 📫 Connect With Me
 
-Email: [kellychan9701@gmail.com](mailto:kellychan9701@gmail.com)
+Email: [kellychan9701@gmail.com](mailto:kellychan9701@gmail.com)  
 LinkedIn: https://www.linkedin.com/in/kellychansiuthon/
 
 
