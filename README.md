@@ -1,14 +1,24 @@
 # Hi there 👋 I'm Kelly Chan
 
-Analytics professional focused on transforming complex data into actionable business decisions. Experienced in analytics, dashboard development and machine learning, with growing interest in next-generation AI systems and intelligent automation.
+Data Analyst with experience in business intelligence, machine learning and analytics across e-commerce and manufacturing industries. Passionate about solving business problems with data and building systems that transform insights into measurable business impact.
 
-📈 Building analytics solutions with Python, SQL and business intelligence tools
-🧠 Exploring LLM applications, AI Agents and AI-powered decision systems
-🔍 Interested in predictive modeling, anomaly detection, experimentation and intelligent analytics platforms
-🎓 Master of Data Science, Universiti Malaya
-🌍 Based in Malaysia | Open to Singapore, Malaysia and remote opportunities
+📊 Experienced in Python, SQL, Tableau, Power BI and Predictive Analytics  
+🤖 Currently exploring LLM applications, AI Agents and intelligent automation systems  
+🚀 Interested in AI-native analytics products, anomaly detection and scalable decision intelligence  
+🎓 Master of Data Science, Universiti Malaya  
+🌏 🌍 Based in Kuala Lumpur | Open to opportunities across Singapore, Malaysia and global remote teams  
 
-## Tech Stack
+## ⚡ Tech Stack
 
-Python • SQL • Tableau • Power BI • Machine Learning • Predictive Analytics • Business Intelligence
+Python | SQL | Machine Learning | Power BI | Tableau | Predictive Analytics | Business Intelligence | Data Visualization
+
+## 🌱 Currently Exploring
+
+LLM Applications | AI Agents | LangChain | RAG Systems | Intelligent Automation 
+
+## 📫 Connect With Me
+
+Email: [kellychan9701@gmail.com](mailto:kellychan9701@gmail.com)
+LinkedIn: https://www.linkedin.com/in/kellychansiuthon/
+
 
