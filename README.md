@@ -19,7 +19,7 @@ Data Engineering: Data Cleaning | ETL | Data Transformation | Feature Engineerin
 
 ## 🌱 Currently Exploring
 
-LLM Applications | AI Agents | LangChain | RAG Systems | Intelligent Automation 
+LLM Applications | AI Agents | Intelligent Automation | AI-Powered Analytics
 
 ## 📫 Connect With Me
 
