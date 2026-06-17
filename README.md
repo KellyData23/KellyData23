@@ -14,8 +14,8 @@ Machine Learning: Predictive Modeling | Classification | Regression | Model Eval
 Data Engineering: Data Cleaning | ETL | Data Transformation | Feature Engineering  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,git,github,vscode" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,tensorflow,git,github,vscode" />
+</p>
 
 ## 🌱 Currently Exploring
 
