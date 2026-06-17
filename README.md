@@ -8,7 +8,10 @@ Data Analyst with experience in business intelligence, machine learning and anal
 
 ## ⚡ Tech Stack
 
-Python | SQL | Machine Learning | Power BI | Tableau | Predictive Analytics | Business Intelligence | Data Visualization
+Programming: Python | SQL | R  
+Analytics: Power BI | Tableau | Excel | Statistical Analysis  
+Machine Learning: Predictive Modeling | Classification | Regression | Model Evaluation  
+Data Engineering: Data Cleaning | ETL | Data Transformation | Feature Engineering  
 
 ## 🌱 Currently Exploring
 
@@ -19,7 +22,4 @@ LLM Applications | AI Agents | LangChain | RAG Systems | Intelligent Automation
 Email: [kellychan9701@gmail.com](mailto:kellychan9701@gmail.com)  
 LinkedIn: https://www.linkedin.com/in/kellychansiuthon/
 
-## 📈 GitHub Stats
-
-![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KellyData23&show_icons=true&theme=tokyonight)
 
