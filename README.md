@@ -19,4 +19,7 @@ LLM Applications | AI Agents | LangChain | RAG Systems | Intelligent Automation
 Email: [kellychan9701@gmail.com](mailto:kellychan9701@gmail.com)  
 LinkedIn: https://www.linkedin.com/in/kellychansiuthon/
 
+## 📈 GitHub Stats
+
+![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KellyData23&show_icons=true&theme=tokyonight)
 
