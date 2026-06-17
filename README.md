@@ -4,9 +4,7 @@ Data Analyst with experience in business intelligence, machine learning and anal
 
 📊 Experienced in Python, SQL, Tableau, Power BI and Predictive Analytics  
 🤖 Currently exploring LLM applications, AI Agents and intelligent automation systems  
-🚀 Interested in AI-native analytics products, anomaly detection and scalable decision intelligence  
-🎓 Master of Data Science, Universiti Malaya  
-🌏 🌍 Based in Kuala Lumpur | Open to opportunities across Singapore, Malaysia and global remote teams  
+🚀 Interested in AI-native analytics products, anomaly detection and scalable decision intelligence   
 
 ## ⚡ Tech Stack
 
